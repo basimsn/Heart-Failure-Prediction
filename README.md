@@ -8,17 +8,29 @@ This project uses clinical records data to predict the likelihood of heart failu
 The dataset used for this project includes the following features:
 
 age: Age of the patient
+
 anaemia: Decrease in red blood cells or hemoglobin (0: No, 1: Yes)
+
 creatinine_phosphokinase: Level of the CPK enzyme in the blood (mcg/L)
+
 diabetes: If the patient has diabetes (0: No, 1: Yes)
+
 ejection_fraction: Percentage of blood leaving the heart at each contraction
+
 high_blood_pressure: If the patient has hypertension (0: No, 1: Yes)
+
 platelets: Platelet count in the blood (kiloplatelets/mL)
+
 serum_creatinine: Level of serum creatinine in the blood (mg/dL)
+
 serum_sodium: Level of serum sodium in the blood (mEq/L)
+
 sex: Gender of the patient (0: Female, 1: Male)
+
 smoking: If the patient smokes (0: No, 1: Yes)
+
 time: Follow-up period (days)
+
 DEATH_EVENT: Whether the patient died during the follow-up period (0: No, 1: Yes)
 
 ## Installation
