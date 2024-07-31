@@ -5,7 +5,7 @@ This project involves the analysis and prediction of heart failure events using 
 This project uses clinical records data to predict the likelihood of heart failure in patients and stratifies them into high-risk and low-risk groups. The dataset contains multiple features representing clinical measurements and the target variable DEATH_EVENT, which indicates whether a patient experienced a heart failure event.
 
 ## Data Description
-The dataset used for this project includes the following features:
+### The dataset used for this project includes the following features:
 
 age: Age of the patient
 
