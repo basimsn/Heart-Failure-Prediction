@@ -78,5 +78,7 @@ This project demonstrates the effectiveness of different machine learning models
 
 ## References
 Heart Failure Clinical Records Dataset
+
 scikit-learn Documentation
+
 UCI Machine Learning Repository
