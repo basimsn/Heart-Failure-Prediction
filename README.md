@@ -36,16 +36,16 @@ DEATH_EVENT: Whether the patient died during the follow-up period (0: No, 1: Yes
 ## Installation
 To run the code, you'll need to install the necessary Python libraries. Use the following command to install the dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
-Usage
+
 Clone the repository to your local machine.
+
 Place the dataset (data.csv) in the project directory.
+
 Run the script using Python:
-bash
-Copy code
+
 python heart_failure_prediction.py
+
 This will execute the data loading, model training, prediction, and evaluation steps.
 
 ## Models Implemented
@@ -64,7 +64,7 @@ Risk stratification is performed to categorize patients into high-risk and low-r
 ### Feature Importance
 Feature importance is analyzed for the Decision Tree and Logistic Regression models. For Decision Trees, feature importance is determined by the impact of features on the tree's splits. For Logistic Regression, coefficients are used to assess the influence of features on the prediction outcome.
 
-## Results and Performance
+### Results and Performance
 Logistic Regression achieved the highest accuracy of 86%.
 Decision Tree yielded an accuracy of 64%.
 Random Forest produced an accuracy of 75%.
